@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NazarKatasonov/nowedz2/static/css/main.e6c13ad2.css",
+    "main.js": "/NazarKatasonov/nowedz2/static/js/main.8a052873.js",
+    "static/js/453.2f9554cd.chunk.js": "/NazarKatasonov/nowedz2/static/js/453.2f9554cd.chunk.js",
+    "index.html": "/NazarKatasonov/nowedz2/index.html",
+    "main.e6c13ad2.css.map": "/NazarKatasonov/nowedz2/static/css/main.e6c13ad2.css.map",
+    "main.8a052873.js.map": "/NazarKatasonov/nowedz2/static/js/main.8a052873.js.map",
+    "453.2f9554cd.chunk.js.map": "/NazarKatasonov/nowedz2/static/js/453.2f9554cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a052873.js"
+  ]
+}
